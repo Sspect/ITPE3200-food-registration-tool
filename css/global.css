@@ -1,0 +1,12 @@
+.adlam-display-regular {
+    font-family: "ADLaM Display", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+/* Apply the font to your specific element */
+.navbar-brand {
+    font-family: 'ADLaM Display', sans-serif;
+    color: #000;
+}

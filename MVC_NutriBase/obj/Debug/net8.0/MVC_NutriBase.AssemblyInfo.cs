@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVC_NutriBase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe944cf38fb971a5cd7fa9d03286f91dd47c4bf1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6f43f9d24ef236b1ff5110612b2a20dd8b244bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVC_NutriBase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVC_NutriBase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
